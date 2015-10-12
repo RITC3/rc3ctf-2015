@@ -95,10 +95,9 @@ encoder:
 compare:
     lea     rsi, [rel qword swallow]
     sub     rdi, swallow.len-1
-    mov     rcx, swallow.len
-    repnz   cmpsb
-    test    rcx, rcx
-    jz      fail
+    mov     rcx, swallow.len-2
+    repz    cmpsb
+    jnz     fail
     add     rsp, rdx
     pop     rbp
     ret

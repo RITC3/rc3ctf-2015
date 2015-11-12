@@ -47,6 +47,7 @@ int main(int argc, char *argv[])
 {
     char buf[60];
     printf("This is the flag access system.\nEnter one time password for entry: ");
+    fflush(0);
     fgets(buf, 59, stdin);
     char *pass = generate();
 #ifdef DEBUG
@@ -58,5 +59,6 @@ int main(int argc, char *argv[])
     } else {
         puts("Access denied... now go away!");
     }
+    fflush(0);
     return 0;
 }

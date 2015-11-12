@@ -34,7 +34,7 @@ char *generate(){
 
 void print_flag(){
     char flagbuf[14] = {0};
-    int fd = open("/challenge/flag.txt", O_RDONLY);
+    int fd = open("/challenges/pw/flag.txt", O_RDONLY);
     if (fd < 0) {
         puts("Error opening flag file :(");
         return;

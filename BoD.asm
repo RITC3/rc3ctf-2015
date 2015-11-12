@@ -125,13 +125,13 @@ get_input:
     ret
 
 ; data (section .data will not allow for multiple strings, this'll do
-hello:      db "Hello there! Welcome to ",27,"[1;31mTHE BRIDGE OF DEATH!!",27,"[0m >:O",10,"All you have to do is answer three questions and then you can pass.",10,"If you get one wrong... well... we'll just have to see what happens won't we?",10,"Good luck!! Oh, and they get harder as you go along.",0
+hello:      db "Hello there! Welcome to ",27,"[1;31mTHE BRIDGE OF DEATH!!",27,"[0m >:O",10,"All you have to do is answer five questions, NO THREE QUESTIONS, and then you can pass.",10,"If you get one wrong... well... you will be cast into the Gorge of Eternal Peril",10,"Good luck!! Oh, and they get harder as you go along.",0
 prompt1:    db "What is your name?",0
 prompt2:    db "What is your quest?",0
 prompt3:    db "What is the ((flag?)) airspeed velcoity of an unladen swallow?",0
 quest:      db "UpTfflUifIpmzHsbjm",0
 win:        db "Okay, go ahead across the bridge (submit that flag) :)",0
-no:         db "You died bcuz flying into lavas :(",0
+no:         db "You died bcuz Eternal Peril :(",0
 
 section .data
 swallow:    db 82, 64, 65, 65, 177, 33, 45, 41, 109, 105, 196, 64, 246, 96, 209, 65, 5, 1, 27, 9, 184, 40, 55, 33, 26, 8, 0

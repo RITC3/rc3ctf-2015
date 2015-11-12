@@ -1,0 +1,21 @@
+1. Use binwalk, find the offset of the 2nd ext2 partition
+binwalk openwrt-x86-ext2.image | grep ext2
+32256         0x7E00          Linux EXT filesystem, rev 0.0 ext2 filesystem data, UUID=00000000-0000-0000-0000-000000000000
+4677120       0x475E00        Linux EXT filesystem, rev 0.0 ext2 filesystem data, UUID=00000000-0000-0000-0000-000000000000
+
+2. Use dd to extract the image skipping the offset of the partition (first number in the output of binwalk)
+dd if=openwrt-x86-ext2.image of=fs.ext2 skip=4677120 bs=1
+
+3. Mount the fs.ext2 file
+mount fs.ext2 /mnt
+
+4. Put the flag in a directory
+cp flag.tar /mnt/root/.fL4g.tar
+
+5. Unmount partition
+umount /mnt
+
+6. Overwrite the root partition on the original image
+dd if=fs.ext2 of=openwrt-x86=ext2.image seek=4677120 bs=1
+
+7. Profit

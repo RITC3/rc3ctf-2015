@@ -1,9 +1,9 @@
 all: debug
 
-final:
+final: clean
 	gcc -o FinalJeopardy -std=c99 FinalJeopardy.c
 
-debug: 
+debug: clean
 	gcc -o FinalJeopardy -std=c99 -ggdb FinalJeopardy.c
 
 clean:

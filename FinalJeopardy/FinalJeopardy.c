@@ -32,13 +32,14 @@ void dot_sleep(int sec){
 
 void print_flag(){
     char flagbuf[14] = {0};
-    int fd = open("flag.txt", O_RDONLY);
+    int fd = open("/challenges/fj/flag.txt", O_RDONLY);
     if (fd < 0) {
         puts("Error opening flag file :(");
         return;
     }
     read(fd, flagbuf, 13);
     printf("%s\n", flagbuf);
+    fflush(0);
 }
 
 int main(int argc, char *argv[])
@@ -50,21 +51,28 @@ int main(int argc, char *argv[])
     long long long_answer = ((long)rand() << 32) | (long)rand();
     if (long_answer > 10) long_answer+=11;
     puts("Lex Trebeq: And now it's time for Final Jeopardy!");
+    fflush(0);
     sleep(3);
     puts("            The current scores are: IBM Watson with $102,600, Stephen Hawking with $110,400, and YOU with an astonishing $100.");
+    fflush(0);
     sleep(3);
     puts("            The category is 'Numbers greater than 10'");
+    fflush(0);
     sleep(3);
     printf("Enter your answer: ");
+    fflush(0);
     scanf("%lld", &number);
     printf("Enter your wager: ");
+    fflush(0);
     scanf("%ld", &wager);
     if ((int)wager > 100 || wager < 0){
         puts("You can't even bet that much money...");
         return 0;
+        fflush(0);
     }
     dot_sleep(8);
     puts("And the answers are in!");
+    fflush(0);
     sleep(3);
     if (number == long_answer){
         puts("Wow good job you weren't even supposed to be able to do that!!");
@@ -73,6 +81,7 @@ int main(int argc, char *argv[])
         moneys -= wager;
         printf("I'm sorry %lld was not the right answer. It was actually %lld.\n", number, long_answer);
     }
+    fflush(0);
     sleep(3);
     if (moneys <= 110400){
         printf("It looks like despite your answer there was no way for you to win. You lose! (%d)", moneys);

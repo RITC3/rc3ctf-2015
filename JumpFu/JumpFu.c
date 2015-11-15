@@ -22,6 +22,13 @@
 #include <string.h>
 #include <time.h>
 
+#ifdef DEBUG
+#define DBUG(a) puts(a); \
+    printf("Zero: %lu\n", zero);
+#else
+#define DBUG(a) if (1){}
+#endif
+
 void print_flag(){
     char flagbuf[14] = {0};
     int fd = open("/challenges/pw/flag.txt", O_RDONLY);
@@ -38,31 +45,25 @@ int main(int argc, char *argv[])
     srand(time(NULL));
     bool giveme = false;
     long zero = 0;
-    char *buf = malloc(100);
+    char buf[100];
     bool gotflag = false;
     puts("Welcome to hell, we have real strong JumpFu here");
 start:
-#ifdef DEBUG
-    puts("start");
-#endif
+    DBUG("start")
     puts("Where to?");
     fflush(0);
-    fgets(buf, 105, stdin);
+    fgets(buf, 116, stdin);
     buf[99] = 0;
     if (strncmp(buf+10, "WHO GOES THERE", strlen("WHO GOES THERE")) == 10)
         goto six;
     else
         goto two;
 one:
-#ifdef DEBUG
-    puts("one");
-#endif
+    DBUG("one")
     puts("WELCOME BACK");
     goto start;
 two:
-#ifdef DEBUG
-    puts("two");
-#endif
+    DBUG("two")
     puts("Who are you? Where are you even going?");
     fflush(0);
     if (buf[69]=='8')
@@ -71,32 +72,22 @@ two:
         goto five;
     goto one;
 three:
-#ifdef DEBUG
-    puts("three");
-#endif
+    DBUG("three")
     puts("Here we go again...");
     fflush(0);
     goto eight;
 four:
-#ifdef DEBUG
-    puts("four");
-#endif
+    DBUG("four")
     if (!zero)
         goto nine;
 five:
-#ifdef DEBUG
-    puts("five");
-#endif
+    DBUG("five")
     giveme = true;
 six:
-#ifdef DEBUG
-    puts("six");
-#endif
+    DBUG("six")
     giveme = false;
 seven: //lucky number seven
-#ifdef DEBUG
-    puts("seven");
-#endif
+    DBUG("seven")
     if (giveme){
         gotflag = true;
         print_flag();
@@ -105,45 +96,33 @@ seven: //lucky number seven
         fflush(0);
     }
 eight:
-#ifdef DEBUG
-    puts("eight");
-#endif
+    DBUG("eight")
     puts("Goodnight! See you later!");
     fflush(0);
     sleep(1);
-    if (rand() % 3)
+    if (rand() % 2)
         goto three;
     else
-        goto four;
+        goto twelve;
 nine:
-#ifdef DEBUG
-    puts("nine");
-#endif
+    DBUG("nine")
     goto two;
 ten:
-#ifdef DEBUG
-    puts("ten");
-#endif
+    DBUG("ten")
     if (!zero)
         giveme = true;
     goto one;
 eleven:
-#ifdef DEBUG
-    puts("eleven");
-#endif
+    DBUG("eleven")
     goto six;
 twelve:
-#ifdef DEBUG
-    puts("twelve");
-#endif
+    DBUG("twelve")
     if (zero)
         goto seven;
     else
         goto ten;
 end:
-#ifdef DEBUG
-    puts("end");
-#endif
+    DBUG("end")
     if (!gotflag)
         puts("Looks like you are leavin here empty handed.");
     else

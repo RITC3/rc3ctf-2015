@@ -3,10 +3,10 @@ PROGNAME := JumpFu
 all: debug
 
 final: clean
-	gcc -o $(PROGNAME) -std=c99 -static $(PROGNAME).c
+	gcc -o $(PROGNAME) -std=c99 -fno-stack-protector -static $(PROGNAME).c
 
 debug: clean
-	gcc -o $(PROGNAME) -ggdb -DDEBUG -std=c99 $(PROGNAME).c
+	gcc -o $(PROGNAME) -ggdb -fno-stack-protector -DDEBUG -std=c99 $(PROGNAME).c
 
 clean:
 	rm -fr $(PROGNAME)

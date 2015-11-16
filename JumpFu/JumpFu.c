@@ -23,15 +23,15 @@
 #include <time.h>
 
 #ifdef DEBUG
-#define DBUG(a) puts(a); \
-    printf("Zero: %lu\n", zero);
+#define DBUG(a) printf("\t%s\n", a); \
+    printf("Zero: %lu, giveme: %d\n", zero, giveme);
 #else
 #define DBUG(a) if (1){}
 #endif
 
 void print_flag(){
     char flagbuf[14] = {0};
-    int fd = open("/challenges/pw/flag.txt", O_RDONLY);
+    int fd = open("flag.txt", O_RDONLY);
     if (fd < 0) {
         puts("Error opening flag file :(");
         return;
@@ -52,7 +52,8 @@ start:
     DBUG("start")
     puts("Where to?");
     fflush(0);
-    fgets(buf, 116, stdin);
+    zero = 0;
+    fgets(buf, 117, stdin);
     buf[99] = 0;
     if (strncmp(buf+10, "WHO GOES THERE", strlen("WHO GOES THERE")) == 10)
         goto six;
@@ -67,7 +68,7 @@ two:
     puts("Who are you? Where are you even going?");
     fflush(0);
     if (buf[69]=='8')
-        goto eight;
+        goto eleven;
     if (buf[69]=='9')
         goto five;
     goto one;
@@ -83,6 +84,8 @@ four:
 five:
     DBUG("five")
     giveme = true;
+    if (!zero)
+        goto eight;
 six:
     DBUG("six")
     giveme = false;
@@ -91,6 +94,7 @@ seven: //lucky number seven
     if (giveme){
         gotflag = true;
         print_flag();
+        goto end;
     }else{
         puts("NO!!! GO AWAY");
         fflush(0);
@@ -101,7 +105,7 @@ eight:
     fflush(0);
     sleep(1);
     if (rand() % 2)
-        goto three;
+        goto one;
     else
         goto twelve;
 nine:
@@ -110,10 +114,12 @@ nine:
 ten:
     DBUG("ten")
     if (!zero)
-        giveme = true;
+        goto end;
     goto one;
 eleven:
     DBUG("eleven")
+    if (strncmp(&zero, "risky!", strlen("risky")))
+        goto eight;
     goto six;
 twelve:
     DBUG("twelve")

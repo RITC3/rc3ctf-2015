@@ -1,14 +1,14 @@
 /*
  * =====================================================================================
  *
- *       Filename:  andxor.c
+ *       Filename:  aandxor64.c
  *
- *    Description:  Simple xor/and challenge for RC3 CTF
+ *    Description:  Simple xor/and challenge for RC3 CTF... in aarch64
  *
  *        Version:  1.0
  *        Created:  11/16/2015 16:36:03
  *       Revision:  none
- *       Compiler:  gcc
+ *       Compiler:  aarch64-linux-gnu-gcc-4.9
  *
  *         Author:  Jaime Geiger (@jgeigerm), jmg2967@rit.edu
  *
@@ -19,6 +19,7 @@
 
 int main(int argc, char *argv[])
 {
+    puts("Crackme?");
     int dad[] = {82, 66, 49, 46, 92, 74, 84, 67, 37, 57, 59, 59, 61, 0};
     char dad2[14] = {0};
     for (int i = 0; i<=13; ++i){

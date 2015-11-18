@@ -1,0 +1,6 @@
+#Now those silly bots can't crawl my site :3
+
+User-agent: *
+Disallow: /admin/
+Disallow: /secret/
+

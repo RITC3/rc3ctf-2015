@@ -60,5 +60,6 @@ int main(int argc, char *argv[])
         puts("Access denied... now go away!");
     }
     fflush(0);
+    free(pass);
     return 0;
 }

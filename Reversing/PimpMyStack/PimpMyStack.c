@@ -20,23 +20,45 @@
 #include <fcntl.h>
 #include <string.h>
 #include <unistd.h>
+#include <time.h>
+
+short size = 0;
+int canary2;
+
+//we need some proper randomization up in here. none of this srand(time(NULL)) shit
+int get_canary(){
+    int canbuf = 0;
+    int fd = open("/dev/urandom", O_RDONLY);
+    if (fd<0){
+        puts("Couldn't get random canary... aborting");
+        exit(-5);
+    }
+    if (read(fd, &canbuf, 4) < 0){
+        puts("Couldn't get random canary... aborting");
+        exit(-5);
+    }
+    return canbuf;
+}
 
 int main(int argc, char *argv[])
 {
-    short size = 0;
+    int canary = canary2 = get_canary();
     puts("Please Pimp My Stack!");
     printf("Enter size of input: ");
+    fflush(0);
     scanf("%hd", &size);
     char buf[size+1];
     memset(buf, 0, size+1);
+    printf("Buffer @0x%X, put sum datas in dere: ", buf);
+    fflush(0);
     for (short i=0; i!=size; i++){
-        read(0, buf+i, 1);
-        if (buf[i] == 0)
+        buf[i] = fgetc(stdin);
+        if (feof(stdin))
             break;
-#ifdef DEBUG
-        printf("i: %d, size: %hd, buf@i: %d\n", i, size, buf[i]);
-#endif
     }
-    printf("%s\n", buf);
+    if (canary != canary2){
+        puts("EY NONE OF THAT!");
+        exit(-69);
+    }
     return 0;
 }

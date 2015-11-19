@@ -20,23 +20,31 @@
 #include <fcntl.h>
 #include <string.h>
 #include <unistd.h>
+#include <time.h>
+
+short size = 0;
+int canary2;
 
 int main(int argc, char *argv[])
 {
-    short size = 0;
+    srand(time(NULL));
+    int canary = canary2 = rand();
     puts("Please Pimp My Stack!");
     printf("Enter size of input: ");
-    scanf("%hd", &size);
+    fflush(0);
     char buf[size+1];
+    scanf("%hd", &size);
     memset(buf, 0, size+1);
+    printf("Buffer @0x%X, put sum datas in dere: ", buf);
+    fflush(0);
     for (short i=0; i!=size; i++){
-        read(0, buf+i, 1);
-        if (buf[i] == 0)
+        buf[i] = fgetc(stdin);
+        if (feof(stdin))
             break;
-#ifdef DEBUG
-        printf("i: %d, size: %hd, buf@i: %d\n", i, size, buf[i]);
-#endif
     }
-    printf("%s\n", buf);
+    if (canary != canary2){
+        puts("EY NONE OF THAT!");
+        exit(-69);
+    }
     return 0;
 }

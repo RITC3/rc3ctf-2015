@@ -32,8 +32,8 @@ int main(int argc, char *argv[])
     puts("Please Pimp My Stack!");
     printf("Enter size of input: ");
     fflush(0);
-    char buf[size+1];
     scanf("%hd", &size);
+    char buf[size+1];
     memset(buf, 0, size+1);
     printf("Buffer @0x%X, put sum datas in dere: ", buf);
     fflush(0);

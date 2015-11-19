@@ -1,0 +1,17 @@
+service pms
+{
+    disable         = no
+    type            = UNLISTED
+    socket_type     = stream
+    protocol        = tcp
+    user            = pms
+    group           = pms
+    wait            = no
+    server          = /home/pms/pms
+    port            = 1337
+    per_source      = 2
+    log_on_failure  = HOST
+    nice            = 10
+    killafter       = 25
+    seccomp_whitelist = 0 1 2 3 5 9 10 11 12 13 14 16 21 23 35 56 59 97 158 202 218 231 273
+}

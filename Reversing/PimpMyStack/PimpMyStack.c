@@ -25,10 +25,24 @@
 short size = 0;
 int canary2;
 
+//we need some proper randomization up in here. none of this srand(time(NULL)) shit
+int get_canary(){
+    int canbuf = 0;
+    int fd = open("/dev/urandom", O_RDONLY);
+    if (fd<0){
+        puts("Couldn't get random canary... aborting");
+        exit(-5);
+    }
+    if (read(fd, &canbuf, 4) < 0){
+        puts("Couldn't get random canary... aborting");
+        exit(-5);
+    }
+    return canbuf;
+}
+
 int main(int argc, char *argv[])
 {
-    srand(time(NULL));
-    int canary = canary2 = rand();
+    int canary = canary2 = get_canary();
     puts("Please Pimp My Stack!");
     printf("Enter size of input: ");
     fflush(0);

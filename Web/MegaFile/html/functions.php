@@ -262,7 +262,7 @@ function checkpw($code)
 {
 	$len = strlen($code) - 1;
 	$last = intval($code[$len]);
-	if(!!$code && $code & 1 && $last % 2 == 0 && $code = "DirtyHarry99!")
+	if(!!$code && $code & 1 && $last % 2 == 0 && $code = "DirtyHarry99")
 		return true;
 
 	return false;

@@ -14,7 +14,7 @@ if(isset($_SERVER['HTTP_X_FORWARDED_FOR']) && $_SERVER['HTTP_X_FORWARDED_FOR'] =
 
 	if($results[1] == "" && !!$results[0])
 	{
-		echo "Be careful formatting.<br>\n";
+		echo "Be careful formatting. Inspect element might be useful.<br>\n";
 		echo "key:<br><br>\n";
 		while($row = $results[0]->fetch_assoc())
 		{

@@ -39,18 +39,14 @@ function getClientIp() {
     return $ipaddress;
 }
 
-//for the other idea, we could have nslookup or dig, and verify that it starts with a valid name or something so that way it is much harder to perform the injection. also don't show error output and use maxsize for the field in the html and use javascript to do some client side validation. make it really annoying and somewhat difficult.
 
-//one big issue will be making it necessary to complete both challenges to get the flag.
 $descriptorspec = array(
    0 => array("pipe", "r"),  // stdin
    1 => array("pipe", "w"),  // stdout
    2 => array("pipe", "w"),  // stderr
 );
 
-//should we allow pipes, ><, $(), $, `` in the command they give? <-- probably doesn't matter
-
-$cwd = "/var/www/chal2/";
+$cwd = "/var/www/html/";
 $ret = "";
 $stdout = "";
 $stderr = "";
@@ -60,15 +56,12 @@ if(isset($_POST['nslookup']) && $_POST['nslookup'] != "")
 	$f = fopen("logs2", 'a');
 	fwrite($f, getClientIp() . " -- " . $_POST['nslookup'] . "\n");
 
-	#if(!preg_match('/$\w+\./', $_POST['nslookup']))
 	if(!preg_match('/^(?!\-)(?:[a-zA-Z\d\-]{0,62}[a-zA-Z\d]\.){1,126}(?!\d+)[a-zA-Z\d]{1,63}/', $_POST['nslookup']))
 	{
 		$stdout = "That wasn't a real domain...";
 	}
 	else
 	{
-		//$chars = array(">", "$", "&", "`");
-		//$_POST['nslookup'] = str_replace($chars, " ", $_POST['nslookup']);
 		$_POST['nslookup'] = str_replace(">", " ", $_POST['nslookup']);
 		$_POST['nslookup'] = scrub($_POST['nslookup']);
 		//$ret = exec('ping -c 1 \'' . $_POST['ping'] . "'", $pingResults);
@@ -81,14 +74,6 @@ if(isset($_POST['nslookup']) && $_POST['nslookup'] != "")
 		fclose($pipes[1]);
 		$stdout = str_replace("\n", "<br>", $stdout);
 	}
-
-	//don't print errors for this
-	//parse stderr the same
-/*	$stderr = stream_get_contents($pipes[2]);
-	$stderr = htmlentities($stderr); //prevent xss
-	fclose($pipes[2]);
-	$stderr = str_replace("\n", "<br>", $stderr);
-*/
 }
 
 ?>
@@ -101,17 +86,14 @@ if(isset($_POST['nslookup']) && $_POST['nslookup'] != "")
 		<br><br>
 		<?php
 		//print stdout and a line break if not empty
-		if($stdout != "")
+		if($stdout != "" && strpos($stdout, "<?php") === false &&
+			strpos($stdout, ";") === false)
+
 		{
 			echo $stdout;
 			echo "\n<br>\n";
 		}
 
-#		echo $stderr; //print stderr no matter what
-#		foreach($pingResults as $key => $value)
-#			echo $value . "\n<br>";
-//		print_r(array_values($results));
-//		var_dump($results);
 		?>
 	</div>
 </form>

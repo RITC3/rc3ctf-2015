@@ -1,0 +1,4 @@
+#Scannaroonie
+This writeup is for the Scannaroonie challenge. For this challenge, you have to banner grab the ports open (there are a ton of ports open). The ports 22, 80, and 443 have banners that combine to be the flag. The flag is:
+
+RC3-2280443-SCANAROONIE

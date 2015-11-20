@@ -87,7 +87,7 @@ BOTTOM;
 
 FORM;
 					$element .= "<a href=\"javascript: submitform2($num)\" "
-						. "target='_blank'>" . htmlentities($filename)
+						. ">" . htmlentities($filename)
 						. " (" .htmlentities($filesize) . " bytes)</a>";
 					$element .= <<<TOPMIDDLE
 

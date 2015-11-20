@@ -78,7 +78,7 @@ if(isset($_POST['nslookup']) && $_POST['nslookup'] != "")
 
 ?>
 
-<form action="more.php" method="POST" onsubmit="return validate();">
+<form action="index.php" method="POST" onsubmit="return validate();">
 	<div>
 		<h1 style="margin-bottom: 5px;">Make DNS queries with nslookup!</h1>
 		<p>Hostnames only!</p>

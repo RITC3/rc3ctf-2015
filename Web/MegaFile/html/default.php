@@ -17,7 +17,7 @@
 								<input class="name" type="text" name="lastname" placeholder="Last Name">
 								<input class="nuber" type="password" name="password" placeholder="Password">
 								<input class="nuber" type="password" name="repassword" placeholder="Confirm Password">
-								<button class="btn btn-info mrgn-can">Clear</button>
+								<!--<button class="btn btn-info mrgn-can">Clear</button>-->
 								<button type="submit" class="btn btn-info mrgn-can">Sign up</button>
 							</form>
 						</div>

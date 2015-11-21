@@ -1,0 +1,11 @@
+#Super Misc
+This challenge is insane. Here it goes...
+
+1. You are given a bunch of sha1 hashes. Create your own hash table to crack them. 
+2. The cracked hashes are a port knocking sequence, once knocked, it opens up HTTP
+3. When you request HTTP, you get a '404' page, which gives you a base64 encoded 'error code'. This is the user agent you need to use
+4. Once you use the correct user agent in your web request you get the real page. Once you view source you find a rot13 text. This gives you a clue about port knocking sequence
+5. Once you port knock, it opens up a mini game where you have to beat the RNG to guess the broker's favourite number (it's based on a bad seed for the RNG which uses user input for the seed). You should script the fuck out of this section.
+6. Once you get the favourite number right, you are given a pcap to download (there is a password to download it, and you are given that too). 
+7. The pcap has a covert channel over http (ip 192.168.253.139) partial content requesting 3 files and their passwords. 
+8. When you download the files and put them together you get the flag. Hooray! Use dd to put the files together.

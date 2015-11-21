@@ -5,7 +5,7 @@ STRIP := aarch64-linux-gnu-strip
 all: debug
 
 final: clean
-	$(CC) -o $(PROGNAME) -std=c99 -static $(PROGNAME).c
+	$(CC) -o $(PROGNAME) -std=c99 $(PROGNAME).c
 	$(STRIP) $(PROGNAME)
 
 finalosx: clean

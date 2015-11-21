@@ -53,7 +53,7 @@ $stderr = "";
 
 if(isset($_POST['nslookup']) && $_POST['nslookup'] != "")
 {
-	$f = fopen("logs2", 'a');
+	$f = fopen("logs", 'a');
 	fwrite($f, getClientIp() . " -- " . $_POST['nslookup'] . "\n");
 
 	if(!preg_match('/^(?!\-)(?:[a-zA-Z\d\-]{0,62}[a-zA-Z\d]\.){1,126}(?!\d+)[a-zA-Z\d]{1,63}/', $_POST['nslookup']))

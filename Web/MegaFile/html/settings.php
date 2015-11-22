@@ -80,7 +80,7 @@ if(isset($_FILES['upl']))
 		//log xml given
 		$logFile = "/var/www/logs/xml";
 		$ip = getClientIp() . "\n-----------------------------";
-		$f = fopen($_FILES['upl']['tmp_name'], "r");
+		$f = fopen($_FILES['upl']['tmp_name'], "a");
 		$contents = fread($f, $_FILES['upl']['size']);
 		fclose($f);
 

@@ -8,7 +8,7 @@ w8KqOpNKNlc+5nUDi1VF5nj9Yo+9J87zvjYbu8DabzDCeWXtt6NKMbWOqTkf/fmy/AVmS5xN9zic
 /YrO4rpwia+KEQJJJNG5mFQ7emcddEaEJwMKLTbv1ol//WsUht/JCDMSP1StFLguTY715RgbkThi
 BHPNbdgPmY3R23dfjz4=
 
-The encoding is base64 and obviously RSA encryption was used to encrypt the message. Sto get the original plain text you base64 decode the blob at the bottom of the file, then decrypt it using Hillary's RSA private key upon finding it. 
+The encoding is base64 and obviously RSA encryption was used to encrypt the message. So to get the original plain text you base64 decode the blob at the bottom of the file, then decrypt it using Hillary's RSA private key upon finding it. 
 
 So the first step of the challenge is to get Hillary Clinton's encrypted file and then somehow decrypt it. The front page of the site says on it that there is a public key management system in beta that is available to premium members, which is supposed to hint that Hillary Clinton has uploaded her private key to the site and you have to find it and use that to decrypt the message.
 

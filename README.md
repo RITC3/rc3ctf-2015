@@ -6,4 +6,5 @@ External Writeups
 =================
 Other people have done writeups of these challenges as well so you can check them out.
 https://github.com/ViviTurtle/Projects/tree/master/CTF%20Writeups/RC3_2015
+
 https://github.com/aweinstock314/aweinstock-ctf-writeups/tree/master/rc3ctf_2015

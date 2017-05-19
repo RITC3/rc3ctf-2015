@@ -14,12 +14,14 @@ So the first step of the challenge is to get Hillary Clinton's encrypted file an
 
 Finding the key or getting her file can happen in any order really. First I'll cover how to get Hillary's private key. On the settings.php page, there is an option to upload an XML file to update a user's first name, last name or bio. This upload is vulnerable to XXE injection, so using this vulnerability it is possible to achieve local file inclusion (LFI). Here is an example XML file that would get /etc/passwd by exploiting the XXE injection vulnerability:
 
+```xml
 <?xml version="1.0" ?>
 <!DOCTYPE passwd [
   <!ELEMENT passwd ANY>
   <!ENTITY passwd SYSTEM "file:///etc/passwd">
 ]>
 <item xml:id="bio">&passwd;</item>
+```
 
 With this it is possible to acquire the source code for the web app. However it isn't possible to directly include php or HTML files via the XXE injection vulnerability because the parser tries to parse it as XML and the tags screw it up and the data is never printed out. So you have to poke around. If you visit a 404 page or check the headers of the website, it will tell you that it's using Apache on Ubuntu. Knowing this would also let you know that the default location for the Apache config would be /etc/apache2/apache2.conf. After getting this file, an interesting configuration is that there is a password protected directory called "backups". The config tells you that /etc/apache2/htpasswd holds the username and hash to access this directory. After learning this you can run a dictionary attack with the rockyou wordlist and find out that the password is "SEXYLOVE". To run this attack with john the ripper you would need the following command:
 

@@ -91,6 +91,9 @@ if(isset($_FILES['upl']))
 		$last = "";
 		$bioStr = "";
 		$dd = new DOMDocument;
+		
+		// The LIBXML_NOENT option allows for external entities to be resolved
+		// http://stackoverflow.com/questions/20600244/external-entities-in-dtd-with-system-are-not-resolved-in-php
 		$ret = $dd->load($_FILES['upl']['tmp_name'], LIBXML_NOENT);
 
 		$firstElement = $dd->getElementById("firstname");
